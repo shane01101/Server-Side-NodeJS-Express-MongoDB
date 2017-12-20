@@ -2,3 +2,4 @@ confusionServer/node_modules
 node-express/node_modules
 mongodb
 node-mongo/node_modules
+node-mongoose/node_modules
